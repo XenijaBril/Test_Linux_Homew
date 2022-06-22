@@ -1,0 +1,39 @@
+   0 mkdir--help
+   1 ls
+   2 pwd
+   3 cd /home
+   4 clear
+   5 history
+   6 pwd
+   7 mkdir user1
+   8 ls
+   9 cd user1/
+  10 clear
+  11 ls
+  12 cd ..
+  13 history
+  14 cd user1
+  15 cd ..
+  16 cd
+  17 cd /home/user1
+  18 cd
+  19 ls -1
+  20 cd ..
+  21 cd
+  22 ls -l
+  23 ls -a
+  24 clear
+  25 history
+  26 cd /home/user1/
+  27 mkdir task1
+  28 cd ..
+  29 cd /home/user1/
+  30 mkdir task1
+  31 cd task1/
+  32 cd ..
+  33 cd /home/user1/task1/
+  34 cd ..
+  35 cd /home/user1/task1/
+  36 cd ..
+  37 cd
+  38 history > /tmp/history.txt
